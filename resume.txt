@@ -1,3 +1,2 @@
-name: Harun
-occupation: Teacher
-objective 
+Name: Harun
+Occupation: Teacher
